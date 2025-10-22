@@ -7,3 +7,11 @@ Learning Goals :
 1. Understand how to track changes using git 
 2. Learn how to branch and merge
 3. Use tags for version control 
+
+Git useful commands :
+git init 
+git add 
+git commit -m "message"
+git log --oneline --graph --all
+git branch 
+git merge 
