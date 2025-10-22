@@ -15,3 +15,5 @@ git commit -m "message"
 git log --oneline --graph --all
 git branch 
 git merge 
+
+Through this assignment , Ilearned how to use Git to manage versions , create branches , and merge code efficiently .
