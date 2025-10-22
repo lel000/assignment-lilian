@@ -17,3 +17,6 @@ git branch
 git merge 
 
 Through this assignment , Ilearned how to use Git to manage versions , create branches , and merge code efficiently .
+
+
+This line was added in feature1 branch 
